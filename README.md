@@ -1,2 +1,0 @@
-- 👋 Hi, I’m @ZeaZolf
-- 👀 I’m interested in Open-Source Software
