@@ -14,7 +14,7 @@
 
 One of them trans 🏳️‍⚧️
 
-- 💻 Entry Programmer (currently learning Python)
+- 💻 Entry Programmer 
 - ☣️ Malware Player on occasion (in VM or PCem)
 
 
