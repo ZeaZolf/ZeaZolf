@@ -15,7 +15,7 @@
 One of them trans 🏳️‍⚧️
 
 - 💻 Entry Programmer 
-- ☣️ Malware Player on occasion (in VM or PCem)
+
 
 
 ### Stuff I'm experienced in:
