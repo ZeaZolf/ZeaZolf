@@ -1,28 +1,19 @@
-<div id="header" align="center">
-  <img src="https://media1.tenor.com/m/qMH5o_XizbcAAAAd/but-here%27s-the-coder.gif" width="100"/>
-</div>
+
 <div id="badges" align="center">
   <img src="https://komarev.com/ghpvc/?username=ZeaZolf&style=flat-square&color=blue" alt=""/>
 </div>  
 <h1 align="center">
-  Haiii :3, I'm Rose :rose:
+  Rose S
 </h1>
 
 ---
-
-### 🏳️‍⚧️ About Me 🌹
-
-One of them trans 🏳️‍⚧️
-
-- 💻 Entry Programmer 
-
-
 
 ### Stuff I'm experienced in:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/windows11/windows11-original.svg" title="Windows" alt="Windows" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux (currently using Mint)" alt="Linux (currently using Mint)" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML (throw in CSS and JS bc why not)" alt="HTML logo" width="40" height="40"/>&nbsp;
 </div>
 
 ### Statistics 
