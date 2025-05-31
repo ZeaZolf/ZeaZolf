@@ -1,12 +1,11 @@
-
-<div id="badges" align="center">
-  <img src="https://komarev.com/ghpvc/?username=ZeaZolf&style=flat-square&color=blue" alt=""/>
-</div>  
 <h1 align="center">
   Rose S
 </h1>
-
----
+<h2 align="center">
+<div id="badges" align="center">
+  <img src="https://komarev.com/ghpvc/?username=ZeaZolf&style=flat-square&color=blue" alt=""/>
+</div>  
+</h1>
 
 ### Stuff I'm experienced in:
 <div>
